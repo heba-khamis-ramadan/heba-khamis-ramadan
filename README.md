@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Heba</h1>
-<p>I'm a backend engineer focused on building scalable web apps with MERN and PERN stacks. Experienced in creating APIs, managing databases, and deploying to the cloud. Love solving problems, learning new tools, and turning ideas into reality.</p>
+<p>I'm a backend software engineer focused on building scalable web apps with MERN and PERN stacks. Experienced in creating APIs, managing databases, and deploying to the cloud. Love solving problems, learning new tools, and turning ideas into reality.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
